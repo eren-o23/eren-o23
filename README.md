@@ -19,6 +19,8 @@ I'm particularly interested in:
 - Agentic AI systems
 - Building AI-native products
 
+🔗 **[LinkedIn](https://www.linkedin.com/in/eren-osman/)**
+
 ---
 
 ## 🛠️ Tech Stack
@@ -89,24 +91,10 @@ I'm particularly interested in:
 
 ---
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eren-osman)
-
----
-
 ## ⚡ What I'm Focused On Right Now
 
 - Building **real, deployable AI systems**
 - Preparing for **AI / data / quant internships**
 - Sharing my journey building in public
 
----
 
-<div align="center">
-
-*"Build things that actually get used."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=eren-o23&color=blueviolet&style=flat-square)
-
-</div>
