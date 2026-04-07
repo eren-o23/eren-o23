@@ -79,18 +79,6 @@ I'm particularly interested in:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eren-o23&show_icons=true&hide_border=true&count_private=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eren-o23&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
-
 ## ⚡ What I'm Focused On Right Now
 
 - Building **real, deployable AI systems**
