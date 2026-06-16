@@ -1,4 +1,4 @@
-# Eren Osman
+# Hi, I'm Eren👋🏻
 
 Business Economics & Data Science @ University of Exeter · Building production AI systems
 
