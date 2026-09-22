@@ -11,12 +11,5 @@ Final Year Business Economics & Data Science @ University of Exeter
 - 🔎 [**rag-enterprise-data**](https://github.com/eren-o23/rag-enterprise-data) — Hybrid Neo4j + pgvector RAG over SEC filings. Multi-hop accuracy 0.091 → 0.591 vs. vector-only, judge-validated against a negative control, with an honest audit of where the eval set is contamination-prone.
 - 🛡️ [**self-healing-llm-gateway**](https://github.com/eren-o23/self-healing-llm-gateway) — Per-provider circuit breaking, automatic failover, and cost attribution across LLM providers (FastAPI, LiteLLM, Redis).
 - 📏 [**eval-harness**](https://github.com/eren-o23/eval-harness) — Framework-agnostic CLI for LLM eval and regression detection, not locked to one tracing vendor.
----
- 
-<!--
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eren-o23&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eren-o23&hide_border=true" height="150"/>
-</p>
--->
+
  
